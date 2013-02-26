@@ -1,0 +1,15 @@
+owner_location:San Diego, USA
+tags_raw:Creative Memories,Anna Mona,Scrapbooks,San Diego,Craft room,Workshop room,Scrapbook room,Crop Space,Creative Memories Consultant,Home Sweet Home,Scrapbooking,Rubber Stamping,photos,sewing
+photo_page:http://www.flickr.com/photos/cropwithanna/1088952486/
+secret:393e5208d9
+server:1127
+datetaken:2007-08-08
+tags:creativememories,annamona,scrapbooks,sandiego,craftroom,workshoproom,scrapbookroom,cropspace,creativememoriesconsultant,homesweethome,scrapbooking,rubberstamping,photos,sewing
+url_tiny:http://farm2.staticflickr.com/1127/1088952486_393e5208d9_s.jpg
+id:1088952486
+owner:74181952@N00
+url_thumbnail:http://farm2.staticflickr.com/1127/1088952486_393e5208d9_t.jpg
+url_small:http://farm2.staticflickr.com/1127/1088952486_393e5208d9_q.jpg
+url:http://farm2.staticflickr.com/1127/1088952486_393e5208d9_o.jpg
+farm:2
+timetaken:19:21:59
